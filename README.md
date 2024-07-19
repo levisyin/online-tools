@@ -1,2 +1,4 @@
 # Online Tools
-Please go to [Online Tools](https://levisyin.github.io/online-tools/)
+Online tools provide md2, md5, sha1, sha2, sha512, bas64, HTML encode/decode functions, etc.
+
+[Website](https://levisyin.github.io/online-tools/)
